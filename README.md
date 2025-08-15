@@ -1,4 +1,4 @@
-# Line-Follower DC Robot (Smart Methods Task)
+# Line-Follower DC Robot
 
 A compact mobile robot that follows a black line on a white floor. The focus is to **choose the correct motor type**, **justify the choice with quick sizing math**, and **program the controller**. Repo includes wiring, parts, and runnable Arduino code (ESP32 notes included).
 
